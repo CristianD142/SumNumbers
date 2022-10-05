@@ -1,0 +1,19 @@
+{
+  "name": "sumnumbers",
+  "version": "1.0.0",
+  "description": "Proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianD142/SumNumbers.git"
+  },
+  "author": "ing.cristian.diaz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianD142/SumNumbers/issues"
+  },
+  "homepage": "https://github.com/CristianD142/SumNumbers#readme"
+}
